@@ -24,5 +24,5 @@
 
 # Errors with Quotes
 # print("Hello" world")
-print('Hello" world')
-print("Hello' world")
+# print('Hello" world')
+# print("Hello' world")
