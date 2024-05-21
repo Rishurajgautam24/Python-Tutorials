@@ -13,13 +13,13 @@
 # print(8 / 2)
 
 # Exponentiation
-# print(2 ** 3)
+# print(2 ** 5)
 
 # Floor division
-# print(9 // 2)
+# print(9 // 2) #--> 4.5
 
 # Modulus
-# print(9 % 2)
+# print(2 % 5)
 
 # Order of operations
 # print(2 + 3 * 4)
@@ -32,5 +32,5 @@
 
 # Complex expression with parentheses
 
-# print((2 ** 3) * (4 // 2) + (9 % 2))
+print((2 ** 3) * (4 // 2) + (9 % 2))
 
